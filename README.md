@@ -1,4 +1,13 @@
-# LootBagsRenewal
+# LootBagsRenewal-Refabricated
+[![License](https://img.shields.io/badge/License-BSD3-lightgrey)](LICENSE)
+
+这是 [LootBagsRenewal](https://github.com/srcres258/LootBagsRenewal) 的非官方 Fabric 移植版本，适配 Minecraft 1.21。
+
+## 原作者信息
+- 原项目：[LootBagsRenewal](https://github.com/srcres258/LootBagsRenewal)
+- 原作者：[@srcres258](https://github.com/srcres258)
+- 原许可证：[BSD-3-Clause](https://github.com/srcres258/LootBagsRenewal/blob/master/LICENSE)
+
 
 Loot Bags is a mod which adds bags that drop other items, renewed by src_resources.
 
