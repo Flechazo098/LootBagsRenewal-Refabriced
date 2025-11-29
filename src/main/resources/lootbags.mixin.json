@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "top.srcres258.renewal.lootbags.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "lootbags.refmap.json",
+  "mixins": [
+    "LivingEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

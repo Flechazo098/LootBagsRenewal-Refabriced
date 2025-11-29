@@ -1,0 +1,4 @@
+// 1.21.1	2025-11-29T13:23:29.6360298	Loot Bags Renewal/Block Loot Tables
+6dbbf3bc5d31b40b1aaf6674e926efbf2092ef4d data\lootbags\loot_table\blocks\loot_recycler.json
+932280bffc6d06fa58c9f0959c2e92d44189b134 data\lootbags\loot_table\blocks\bag_storage.json
+a2014e1a0be44f62e5596f99abb92e55f737dca3 data\lootbags\loot_table\blocks\bag_opener.json

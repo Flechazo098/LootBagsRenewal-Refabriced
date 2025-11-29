@@ -1,0 +1,18 @@
+// 1.21.1	2025-11-29T13:23:29.6340294	Loot Bags Renewal/Model Definitions
+db3d0585d8cb084424d51876f659847b02e6bd02 assets\lootbags\models\block\bag_storage.json
+f2135ccbc261feb7adeaadf2d72bfd3e565c46e2 assets\lootbags\models\item\epic_loot_bag.json
+a28eefe824ed9bc413450e21ee7d94193e3a08b9 assets\lootbags\models\item\legendary_loot_bag.json
+eb3124ca0bc9b68c403618913f4b1381d8b095c7 assets\lootbags\models\item\bag_storage.json
+e8e3e03acc16cd7940cc8c023959041179bae368 assets\lootbags\blockstates\loot_recycler.json
+679b326c4a1adf9685679a8ee079d3d44b041406 assets\lootbags\models\block\loot_recycler.json
+74ed400253a31ddb30d6da51711c9ce95bc0ab87 assets\lootbags\models\block\bag_opener.json
+93de003faee59d1d188e9a57720506371118a26f assets\lootbags\models\item\common_loot_bag.json
+3c338aaa6cc03d7b05cdbe74a4ec373e84c3bc04 assets\lootbags\models\item\patient_loot_bag.json
+6af68d9b53a903ebe90efe755123604398da07d4 assets\lootbags\blockstates\bag_storage.json
+a2a9c5c488c6fc61ed0e6124f665a7dc9f7490c1 assets\lootbags\blockstates\bag_opener.json
+94f482a6cf2d8d50ee4462b50ea3ac300e7cafaa assets\lootbags\models\item\artificial_loot_bag.json
+5ca8fcd8c43f4884483204f2f22947a389c20358 assets\lootbags\models\item\bacon_loot_bag.json
+426c402bb251e58d3c1c3fa9207a3315f845e060 assets\lootbags\models\item\loot_recycler.json
+5d8ae60b6bed9ddc62ccf0d375a430df3a50001b assets\lootbags\models\item\uncommon_loot_bag.json
+7653a07d10f441ec4bb755b3537f542f5e26d741 assets\lootbags\models\item\bag_opener.json
+6f61ca9d386707a2b06db7e76cab1e818fe4f8e2 assets\lootbags\models\item\rare_loot_bag.json

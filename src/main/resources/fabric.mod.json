@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "lootbags",
+  "version": "${version}",
+  "name": "Loot Bags Renewal",
+  "description": "Loot Bags is a mod which adds bags that drop other items, renewed by src_resources.",
+  "authors": [],
+  "contact": {},
+  "license": "BSD-3-Clause",
+  "icon": "assets/lootbags/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "top.srcres258.renewal.lootbags.datagen.LootBagsDataGenerator"
+    ],
+    "client": [
+      "top.srcres258.renewal.lootbags.client.LootBagsClient"
+    ],
+    "main": [
+      {
+        "adapter": "kotlin",
+        "value": "top.srcres258.renewal.lootbags.LootBags"
+      }
+    ]
+  },
+  "mixins": [
+    "lootbags.mixin.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-language-kotlin": ">=${kotlin_loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  },
+  "accessWidener" : "lootbags.accesswidener"
+}
